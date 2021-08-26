@@ -1,0 +1,30 @@
+{
+  "name": "jest-practing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "ts-node": "^10.2.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsinofrancisco/jest-practing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsinofrancisco/jest-practing/issues"
+  },
+  "homepage": "https://github.com/nelsinofrancisco/jest-practing#readme"
+}
